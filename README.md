@@ -3,10 +3,14 @@ The code is for the work:
 ```
 
   @article{CZhou2020hyperspectral,
-  title={Hyperspectral classification with noisy label detection via superpixel-to-pixel weighting distance},
   author={Tu, Bing and Zhou, Chengle and He, Danbing and Huang, Siyuan and Plaza, Antonio},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  year={2020},}
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Hyperspectral Classification With Noisy Label Detection via Superpixel-to-Pixel Weighting Distance}, 
+  year={2020},
+  volume={58},
+  number={6},
+  pages={4116-4131},
+  doi={10.1109/TGRS.2019.2961141}}
 ```
 
 If you need another two datasets (PaviaU and Salinas), please feel free to contact me. Or you can download them from http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
