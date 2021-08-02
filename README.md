@@ -2,7 +2,7 @@ The code is for the work:
 
 ```
 
-  @article{CZhou2020hyperspectral,
+  @article{CZhou2020SPWD,
   author={Tu, Bing and Zhou, Chengle and He, Danbing and Huang, Siyuan and Plaza, Antonio},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Hyperspectral Classification With Noisy Label Detection via Superpixel-to-Pixel Weighting Distance}, 
